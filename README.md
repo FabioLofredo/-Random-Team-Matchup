@@ -1,10 +1,10 @@
-# -Random-Team-Matchup
+<h1 align="center"> Random Team Matchup</h1>
 
 Generate a random matchup for individuals in teams
 
-##Example:
+<h2 align="center">Example</h2>
 
-###Input:
+<h3 align="left">Input:</h3>
 
 group_size = 2
 
@@ -17,7 +17,7 @@ team.append(['Raíssa','Leonardo','Luís','Lívia','Kauã','Guillermo',
 team.append(['Cauã','Caroline','Rauany','Wellington','Raquel','Maria','Kauê',
 'Valesca'])
 
-###Output:
+<h3 align="left">Output:</h3>
 
 1 - Grazielli e Victor X Kauã e Luís X Caroline e Rauany.
 2 - Nicolas e Clara X Guillermo e Letícia X Cauã e Raquel.
